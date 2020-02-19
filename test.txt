@@ -1,1 +1,12 @@
-TODO: Add contents for testfile only
+<<<<<<< HEAD
+<<<<<<< HEAD
+TODO: Add contents for testfile only to access
+=======
+TODO: Add contents for testfile only one time
+>>>>>>> 4a0a44e75deb29f9a54c26ae694b468729319e27
+=======
+TODO: Add contents for testfile only one time
+=======
+TODO: Add contents for testfile only to locate it and place it
+>>>>>>> 5366b8821e794c66db98a6c8b104f3bb40982e61
+>>>>>>> 2691d4a3279a065ca0d3c41f8f4cf681c636678c
